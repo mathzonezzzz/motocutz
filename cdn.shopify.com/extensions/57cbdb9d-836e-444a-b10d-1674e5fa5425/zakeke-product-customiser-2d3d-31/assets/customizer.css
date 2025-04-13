@@ -1,0 +1,13 @@
+#zakeke-container {
+    width: 100%;
+}
+
+#zakeke-frame {
+    width: 100%;
+    border: 0;
+    overflow: hidden;
+    background: url("../../../../../zakekecdn.azureedge.net/cdn/images/other/loading-f13eecdb37.gif") no-repeat center;
+    background-size: 32px;
+    min-height: 700px;
+    height: 80vh;
+}

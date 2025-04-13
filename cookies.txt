@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+motocutzmx.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22USCA%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Atrue%2C%22consent_id%22%3A%227623018F-2f85-4732-afc4-5bd67b8f5454%22%7D
+motocutzmx.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fproducts%2Fsurron-number-plate-decal-custom
+motocutzmx.com	TRUE	/	FALSE	1999999999	keep_alive	4e789d48-42b0-4513-bb2c-dd20a5179c04
+motocutzmx.com	TRUE	/	FALSE	1999999999	localization	US
+motocutzmx.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+motocutzmx.com	TRUE	/	FALSE	1999999999	_shopify_y	AE84B736-4bcc-4909-a798-484537031e96
+motocutzmx.com	TRUE	/	FALSE	1999999999	_shopify_s	C86A3808-2126-4F48-bd51-d8de3e8f7de5
+motocutzmx.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

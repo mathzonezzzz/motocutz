@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 13 Apr 2025 16:23:40 at https://motocutzmx.com/products/surron-number-plate-decal-custom +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://motocutzmx.com/products/surron-number-plate-decal-custom -O1 "C:\Users\Faran\Desktop\sdfasd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:23:44	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=66547843311
+16:24:15	Error: 	"Not Found" (404) at link https://motocutzmx.com/products/modules/v2/chunk.common_N3BdFaNT.esm.js (from https://motocutzmx.com/products/surron-number-plate-decal-custom)
+16:24:15	Error: 	"Not Found" (404) at link https://motocutzmx.com/products/modules/v2/client.shop-login-button_C0Ba0R4r.en.esm.js (from https://motocutzmx.com/products/surron-number-plate-decal-custom)
+16:24:15	Error: 	"Not Found" (404) at link https://motocutzmx.com/products/GET (from https://motocutzmx.com/products/surron-number-plate-decal-custom)
+16:24:18	Error: 	"Not Found" (404) at link https://motocutzmx.com/products/POST (from https://motocutzmx.com/products/surron-number-plate-decal-custom)
+16:24:18	Error: 	"Not Found" (404) at link https://motocutzmx.com/products/Trident/ (from https://motocutzmx.com/products/surron-number-plate-decal-custom)
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 seconds : 80 links scanned, 74 files written (2774305 bytes overall) [1470220 bytes received at 34191 bytes/sec], 3131272 bytes transferred using HTTP compression in 65 files, ratio 17%, 6.6 requests per connection
+(5 errors, 1 warnings, 0 messages)
